@@ -8,6 +8,8 @@
 
 ### Hasil label :
 
-[logo](https://i.ibb.co/fpqQjzF/label1.png)
+![logo](https://i.ibb.co/fpqQjzF/label1.png)
 
 ### Hasil Button : 
+
+![logo](https://i.ibb.co/fpqQjzF/button1.png)
