@@ -12,4 +12,4 @@
 
 ### Hasil Button : 
 
-![logo](https://i.ibb.co/fpqQjzF/button1.png)
+![logo](https://i.ibb.co/fpqQjzF/tombol1.png)
