@@ -13,3 +13,9 @@
 ### Hasil Button : 
 
 ![logo](https://i.ibb.co/zrzTsmP/tombol1.png)
+
+### Hasil Signal Slot : 
+
+![logo](https://i.ibb.co/cynGL28/buttonclickeds1.png)
+
+![logo](https://i.ibb.co/4ffg67W/buttonclickeddua.png)
